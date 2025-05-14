@@ -1,1 +1,1 @@
-homeassistant/home-assistant:latest
+homeassistant/home-assistant:2025.6.0.dev202505140237
