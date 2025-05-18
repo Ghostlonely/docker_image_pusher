@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2025.6.0.dev202505140237
+docker pull adguard/adguardhome:latest
