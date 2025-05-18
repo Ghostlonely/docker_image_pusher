@@ -1,1 +1,1 @@
-docker pull adguard/adguardhome:v0.108.0-b.69
+adguard/adguardhome:v0.108.0-b.69
